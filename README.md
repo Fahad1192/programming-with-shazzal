@@ -1,12 +1,12 @@
 # Class-2
 31/06/2021
 
-#Topics Discussed
+## Topics Discussed
 - Palindrome
 - How to learn a new programming language
 - Develop mathematical proof of an algorithm
 
-# Assignment-2
+## Assignment-2
 
 ## Immutable
 
